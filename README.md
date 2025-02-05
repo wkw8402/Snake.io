@@ -5,7 +5,7 @@ Welcome to **Snake.io**! In this project, we use C programming by building a ful
 ---
 
 ## 🎮 Game Overview
-Snake.io is a classic snake game where snakes move around a grid, eating fruit to grow longer while avoiding collisions with walls or their own bodies. If you're not familiar with snake, you can try out a demo at [this link](https://cs61c.org/fa24/projects/proj1/#:~:text=If%20you%27re%20not%20familiar%20with%20snake%2C%20you%20can%20try%20out%20a%20demo%20at%20this%20link).
+Snake.io is a classic snake game where snakes move around a grid, eating fruit to grow longer while avoiding collisions with walls or their own bodies. If you're not familiar with snake, you can try out a demo at [this link](https://raw.org/demo/html5-snake/).
 
 ### Grid Characters:
 - **`#`**: Wall  
