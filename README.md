@@ -1,6 +1,6 @@
 # Snake.io: A Playable Snake Game in C
 
-Welcome to **Snake.io**! In this project, we use C programming by building a fully functional snake game.
+Welcome to **Snake.io**! With this repo, you can a fully functional snake game using C.
 
 ---
 
